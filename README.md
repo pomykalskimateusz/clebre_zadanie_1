@@ -1,0 +1,1 @@
+Before start spring-boot application you have to setup cassandra by running docker-compose. Jump to docker directory and type `docker-compose up -d --build` and wait for cassandra initialization.
